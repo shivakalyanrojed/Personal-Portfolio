@@ -1,0 +1,231 @@
+.card_background{
+    background: linear-gradient(to top, white ,gold 100%);
+    height: 100vh;
+    background-size: cover;
+}
+.navbar-brand{
+    font-size:medium;
+    font-family: "ROBOTO";
+    font-weight: 500;
+}
+.navbar{
+    background:linear-gradient(to right,darkslategray,black);
+    color:white;
+}
+.home-h1{
+    color: #222;
+    letter-spacing: 0;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-family: Superior title, Times New Roman, sans-serif;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 88px;
+    padding-left: 210px;
+    padding-top: 25px;
+    font-weight: 400;
+    
+}
+.intro-wrap{
+    margin-bottom: 40px;
+    padding-top: 96px;
+    padding-bottom: 0;
+}
+.paragraph{
+    padding-left:210px;
+}
+.para-wrap{
+    margin-bottom: 20px;
+}
+.paragraph{
+    max-width: 740px;
+    opacity: 1;
+    margin-bottom: 10px;
+    font-family: Pitchsans Regular, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.paragraph2{
+    max-width: 740px;
+    opacity: 1;
+    margin-bottom: 15px;
+    font-family: Pitchsans Regular, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+
+}
+.about{
+    margin-bottom: 70px;
+    font-family: Superior title, Times New Roman, sans-serif;
+    margin-left:200px;
+    font-weight: 700;
+}
+.container2{
+    margin-left:200px;
+
+}
+.box{
+    height: 180px;
+    width: 500px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    background: linear-gradient(to bottom, white ,#E8E8E8 80%,white);
+}
+
+.box3{
+    height: 150px;
+    width: 500px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    background: linear-gradient(to bottom, white ,#E8E8E8 80%,white);
+}
+.box4{
+    height: 180px;
+    width: 500px;
+    border-radius: 15px;
+    margin-left: 50%;
+    margin-bottom: 20px;
+    background: linear-gradient(to bottom, white ,#E8E8E8 80%,white);
+}
+.box5{
+    height: 150px;
+    width: 500px;
+    border-radius: 15px;
+    margin-left: 50%;
+    margin-bottom: 20px;
+    background: linear-gradient(to bottom, white ,#E8E8E8 80%,white);
+}
+.education{
+    margin-bottom: 40px;
+    font-family: Superior title, Times New Roman, sans-serif;
+    margin-left:200px;
+    background: transparent;
+}
+.paragraph3{
+    padding-left: 25px;
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.college{
+    padding-left: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-weight:600;
+}
+.college_3{
+    padding-left: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    
+}
+
+.h{
+
+    margin-right: 100px;
+    color:black;
+}
+.college_1{
+    padding-left: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-weight:600;
+    
+}
+.image{
+    height:200px;
+    width:300px;
+    margin-left: 25px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.box6{
+    height: 400px;
+    width: 500px;
+    border-radius: 15px;
+    margin-left:20px;
+    margin-bottom: 20px;
+}
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.footer{
+background-color:#111;
+}
+
+.footerContainer{
+width: 100%;
+padding: 70px 30px 20px;
+}
+
+.socialIcons{
+display: flex;
+justify-content: center;
+
+}
+.socialIcons a{
+    text-decoration: none;
+    padding: 10px;
+    background-color:white;
+    margin: 10px;
+    border-radius: 50%;
+}
+    
+    
+    
+    .socialIcons a i{
+    font-size: 2em;
+    color:black;
+    opacity: 0.9;
+    }
+    
+    /* Hover Effects on Social Media Icons */
+    .socialIcons a:hover{
+    background-color:#111;
+    transition: 0.5s;
+    }
+
+    .socialIcons a:hover i{
+        color:white;
+        transition: 0.5s;
+        
+        }
+        
+    .footerNav{
+        margin: 30px 0;
+        
+        }
+        
+.footerNav ul{
+    display: flex;
+    justify-content: center;
+}
+.footerNav ul li a{
+color: white;
+margin: 20px;
+text-decoration: none;
+font-size: 1.3em;
+opacity: 0.7;
+transition: 0.5s;
+}
+        
+.footerNav ul li a:hover{
+    opacity: 1;
+}
+
+.background3{
+    background: linear-gradient(to bottom, white ,#eabefa);
+    height: 100vh;
+    background-size: cover;
+
+}
+
+    
+    
+    
